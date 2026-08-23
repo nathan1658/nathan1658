@@ -41,9 +41,19 @@ I am always exploring new platforms, AI-assisted development, mobile and hardwar
 ## GitHub Snapshot
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=nathan1658&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;bg_color=0F172A&amp;title_color=F59E0B&amp;text_color=E2E8F0&amp;icon_color=14B8A6&amp;border_color=334155" alt="Nathan's GitHub statistics">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nathan1658&amp;layout=compact&amp;langs_count=8&amp;bg_color=0F172A&amp;title_color=F59E0B&amp;text_color=E2E8F0&amp;border_color=334155" alt="Nathan's most-used public repository languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=nathan1658&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide=prs&amp;line_height=29&amp;custom_title=Public%20Repository%20Snapshot&amp;bg_color=0F172A&amp;title_color=F59E0B&amp;text_color=E2E8F0&amp;icon_color=14B8A6&amp;border_color=334155&amp;cache_seconds=60">
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-fast.vercel.app/api?username=nathan1658&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide=prs&amp;line_height=29&amp;custom_title=Public%20Repository%20Snapshot&amp;bg_color=FFFFFF&amp;title_color=B45309&amp;text_color=24292F&amp;icon_color=0F766E&amp;border_color=D0D7DE&amp;cache_seconds=60">
+    <img width="400" height="163" align="center" src="https://github-readme-stats-fast.vercel.app/api?username=nathan1658&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide=prs&amp;line_height=29&amp;custom_title=Public%20Repository%20Snapshot&amp;bg_color=FFFFFF&amp;title_color=B45309&amp;text_color=24292F&amp;icon_color=0F766E&amp;border_color=D0D7DE&amp;cache_seconds=60" alt="Nathan's public GitHub repository statistics">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nathan1658&amp;layout=compact&amp;langs_count=8&amp;card_width=467&amp;bg_color=0F172A&amp;title_color=F59E0B&amp;text_color=E2E8F0&amp;border_color=334155&amp;cache_seconds=60">
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nathan1658&amp;layout=compact&amp;langs_count=8&amp;card_width=467&amp;bg_color=FFFFFF&amp;title_color=B45309&amp;text_color=24292F&amp;border_color=D0D7DE&amp;cache_seconds=60">
+    <img width="400" height="163" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nathan1658&amp;layout=compact&amp;langs_count=8&amp;card_width=467&amp;bg_color=FFFFFF&amp;title_color=B45309&amp;text_color=24292F&amp;border_color=D0D7DE&amp;cache_seconds=60" alt="Nathan's most-used public repository languages">
+  </picture>
 </p>
+
+<p align="center"><sub>Live public-repository data. Private and internal work is intentionally excluded.</sub></p>
 
 ## Project Spotlights
 
@@ -74,18 +84,54 @@ An interactive, video-first doubles badminton analysis workspace combining synch
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/nathan1658/claude-sidebar"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=claude-sidebar&amp;bg_color=0F172A&amp;title_color=F59E0B&amp;text_color=E2E8F0&amp;icon_color=14B8A6&amp;border_color=334155" alt="claude-sidebar"></a>
-  <a href="https://github.com/nathan1658/codex-usage-menubar"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=codex-usage-menubar&amp;bg_color=0F172A&amp;title_color=F59E0B&amp;text_color=E2E8F0&amp;icon_color=14B8A6&amp;border_color=334155" alt="codex-usage-menubar"></a>
+  <a href="https://github.com/nathan1658/claude-sidebar">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=claude-sidebar&amp;description_lines_count=2&amp;bg_color=0F172A&amp;title_color=F59E0B&amp;text_color=E2E8F0&amp;icon_color=14B8A6&amp;border_color=334155&amp;cache_seconds=60">
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=claude-sidebar&amp;description_lines_count=2&amp;bg_color=FFFFFF&amp;title_color=B45309&amp;text_color=24292F&amp;icon_color=0F766E&amp;border_color=D0D7DE&amp;cache_seconds=60">
+      <img width="400" height="140" align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=claude-sidebar&amp;description_lines_count=2&amp;bg_color=FFFFFF&amp;title_color=B45309&amp;text_color=24292F&amp;icon_color=0F766E&amp;border_color=D0D7DE&amp;cache_seconds=60" alt="claude-sidebar">
+    </picture>
+  </a>
+  <a href="https://github.com/nathan1658/codex-usage-menubar">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=codex-usage-menubar&amp;description_lines_count=2&amp;bg_color=0F172A&amp;title_color=F59E0B&amp;text_color=E2E8F0&amp;icon_color=14B8A6&amp;border_color=334155&amp;cache_seconds=60">
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=codex-usage-menubar&amp;description_lines_count=2&amp;bg_color=FFFFFF&amp;title_color=B45309&amp;text_color=24292F&amp;icon_color=0F766E&amp;border_color=D0D7DE&amp;cache_seconds=60">
+      <img width="400" height="140" align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=codex-usage-menubar&amp;description_lines_count=2&amp;bg_color=FFFFFF&amp;title_color=B45309&amp;text_color=24292F&amp;icon_color=0F766E&amp;border_color=D0D7DE&amp;cache_seconds=60" alt="codex-usage-menubar">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nathan1658/jpop-hk-concerts"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=jpop-hk-concerts&amp;bg_color=0F172A&amp;title_color=F59E0B&amp;text_color=E2E8F0&amp;icon_color=14B8A6&amp;border_color=334155" alt="jpop-hk-concerts"></a>
-  <a href="https://github.com/nathan1658/Eddystone-playground"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=Eddystone-playground&amp;bg_color=0F172A&amp;title_color=F59E0B&amp;text_color=E2E8F0&amp;icon_color=14B8A6&amp;border_color=334155" alt="Eddystone Playground"></a>
+  <a href="https://github.com/nathan1658/jpop-hk-concerts">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=jpop-hk-concerts&amp;description_lines_count=2&amp;bg_color=0F172A&amp;title_color=F59E0B&amp;text_color=E2E8F0&amp;icon_color=14B8A6&amp;border_color=334155&amp;cache_seconds=60">
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=jpop-hk-concerts&amp;description_lines_count=2&amp;bg_color=FFFFFF&amp;title_color=B45309&amp;text_color=24292F&amp;icon_color=0F766E&amp;border_color=D0D7DE&amp;cache_seconds=60">
+      <img width="400" height="140" align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=jpop-hk-concerts&amp;description_lines_count=2&amp;bg_color=FFFFFF&amp;title_color=B45309&amp;text_color=24292F&amp;icon_color=0F766E&amp;border_color=D0D7DE&amp;cache_seconds=60" alt="jpop-hk-concerts">
+    </picture>
+  </a>
+  <a href="https://github.com/nathan1658/Eddystone-playground">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=Eddystone-playground&amp;description_lines_count=2&amp;bg_color=0F172A&amp;title_color=F59E0B&amp;text_color=E2E8F0&amp;icon_color=14B8A6&amp;border_color=334155&amp;cache_seconds=60">
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=Eddystone-playground&amp;description_lines_count=2&amp;bg_color=FFFFFF&amp;title_color=B45309&amp;text_color=24292F&amp;icon_color=0F766E&amp;border_color=D0D7DE&amp;cache_seconds=60">
+      <img width="400" height="140" align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=Eddystone-playground&amp;description_lines_count=2&amp;bg_color=FFFFFF&amp;title_color=B45309&amp;text_color=24292F&amp;icon_color=0F766E&amp;border_color=D0D7DE&amp;cache_seconds=60" alt="Eddystone Playground">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nathan1658/horse-memorizing-game"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=horse-memorizing-game&amp;bg_color=0F172A&amp;title_color=F59E0B&amp;text_color=E2E8F0&amp;icon_color=14B8A6&amp;border_color=334155" alt="HK Horse Memory"></a>
-  <a href="https://github.com/nathan1658/whatsmeow-playground"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=whatsmeow-playground&amp;bg_color=0F172A&amp;title_color=F59E0B&amp;text_color=E2E8F0&amp;icon_color=14B8A6&amp;border_color=334155" alt="whatsmeow-playground"></a>
+  <a href="https://github.com/nathan1658/horse-memorizing-game">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=horse-memorizing-game&amp;description_lines_count=2&amp;bg_color=0F172A&amp;title_color=F59E0B&amp;text_color=E2E8F0&amp;icon_color=14B8A6&amp;border_color=334155&amp;cache_seconds=60">
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=horse-memorizing-game&amp;description_lines_count=2&amp;bg_color=FFFFFF&amp;title_color=B45309&amp;text_color=24292F&amp;icon_color=0F766E&amp;border_color=D0D7DE&amp;cache_seconds=60">
+      <img width="400" height="140" align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=horse-memorizing-game&amp;description_lines_count=2&amp;bg_color=FFFFFF&amp;title_color=B45309&amp;text_color=24292F&amp;icon_color=0F766E&amp;border_color=D0D7DE&amp;cache_seconds=60" alt="HK Horse Memory">
+    </picture>
+  </a>
+  <a href="https://github.com/nathan1658/whatsmeow-playground">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=whatsmeow-playground&amp;description_lines_count=2&amp;bg_color=0F172A&amp;title_color=F59E0B&amp;text_color=E2E8F0&amp;icon_color=14B8A6&amp;border_color=334155&amp;cache_seconds=60">
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=whatsmeow-playground&amp;description_lines_count=2&amp;bg_color=FFFFFF&amp;title_color=B45309&amp;text_color=24292F&amp;icon_color=0F766E&amp;border_color=D0D7DE&amp;cache_seconds=60">
+      <img width="400" height="140" align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=nathan1658&amp;repo=whatsmeow-playground&amp;description_lines_count=2&amp;bg_color=FFFFFF&amp;title_color=B45309&amp;text_color=24292F&amp;icon_color=0F766E&amp;border_color=D0D7DE&amp;cache_seconds=60" alt="whatsmeow-playground">
+    </picture>
+  </a>
 </p>
 
 ### Evidence Behind the Work
@@ -106,8 +152,14 @@ An interactive, video-first doubles badminton analysis workspace combining synch
 ## Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nathan1658&amp;bg_color=0F172A&amp;color=CBD5E1&amp;line=F59E0B&amp;point=14B8A6&amp;area=true&amp;area_color=F59E0B&amp;hide_border=true" alt="Nathan's GitHub contribution activity graph">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nathan1658&amp;days=31&amp;height=280&amp;bg_color=0F172A&amp;color=CBD5E1&amp;line=F59E0B&amp;point=14B8A6&amp;area=true&amp;area_color=F59E0B&amp;hide_border=true">
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nathan1658&amp;days=31&amp;height=280&amp;bg_color=FFFFFF&amp;color=57606A&amp;line=B45309&amp;point=0F766E&amp;area=true&amp;area_color=FDE68A&amp;hide_border=true">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nathan1658&amp;days=31&amp;height=280&amp;bg_color=FFFFFF&amp;color=57606A&amp;line=B45309&amp;point=0F766E&amp;area=true&amp;area_color=FDE68A&amp;hide_border=true" alt="Nathan's daily GitHub contribution totals for the last 31 days">
+  </picture>
 </p>
+
+<p align="center"><sub>Daily contribution totals for the last 31 days, not a pull-request count. Private activity appears only as anonymous totals when GitHub profile visibility allows it.</sub></p>
 
 <details>
 <summary><strong>More public experiments</strong></summary>
