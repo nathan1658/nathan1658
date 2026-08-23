@@ -53,7 +53,7 @@ I am always exploring new platforms, AI-assisted development, mobile and hardwar
   </picture>
 </p>
 
-<p align="center"><sub>Live public-repository data. Private and internal work is intentionally excluded.</sub></p>
+<p align="center"><sub>Repository metrics above cover public projects; the contribution activity below also includes anonymized private and internal work.</sub></p>
 
 ## Project Spotlights
 
@@ -149,17 +149,17 @@ An interactive, video-first doubles badminton analysis workspace combining synch
 - Make uncertainty visible instead of presenting guesses as facts.
 - Prefer small, verifiable releases with useful documentation and honest validation boundaries.
 
-## Contribution Activity
+## Contribution Activity (Public + Private)
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nathan1658&amp;days=31&amp;height=280&amp;bg_color=0F172A&amp;color=CBD5E1&amp;line=F59E0B&amp;point=14B8A6&amp;area=true&amp;area_color=F59E0B&amp;hide_border=true">
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nathan1658&amp;days=31&amp;height=280&amp;bg_color=FFFFFF&amp;color=57606A&amp;line=B45309&amp;point=0F766E&amp;area=true&amp;area_color=FDE68A&amp;hide_border=true">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nathan1658&amp;days=31&amp;height=280&amp;bg_color=FFFFFF&amp;color=57606A&amp;line=B45309&amp;point=0F766E&amp;area=true&amp;area_color=FDE68A&amp;hide_border=true" alt="Nathan's daily GitHub contribution totals for the last 31 days">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nathan1658&amp;days=31&amp;height=280&amp;bg_color=FFFFFF&amp;color=57606A&amp;line=B45309&amp;point=0F766E&amp;area=true&amp;area_color=FDE68A&amp;hide_border=true" alt="Nathan's public and anonymized private GitHub contribution totals for the last 31 days">
   </picture>
 </p>
 
-<p align="center"><sub>Daily contribution totals for the last 31 days, not a pull-request count. Private activity appears only as anonymous totals when GitHub profile visibility allows it.</sub></p>
+<p align="center"><sub>Daily totals for the last 31 days, including anonymous private and internal activity enabled through GitHub. Repository and organization details remain hidden. This is not a pull-request count.</sub></p>
 
 <details>
 <summary><strong>More public experiments</strong></summary>
