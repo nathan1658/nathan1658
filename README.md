@@ -42,18 +42,18 @@ I am always exploring new platforms, AI-assisted development, mobile and hardwar
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=nathan1658&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide=prs&amp;line_height=29&amp;custom_title=Public%20Repository%20Snapshot&amp;bg_color=0F172A&amp;title_color=F59E0B&amp;text_color=E2E8F0&amp;icon_color=14B8A6&amp;border_color=334155&amp;cache_seconds=60">
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-fast.vercel.app/api?username=nathan1658&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide=prs&amp;line_height=29&amp;custom_title=Public%20Repository%20Snapshot&amp;bg_color=FFFFFF&amp;title_color=B45309&amp;text_color=24292F&amp;icon_color=0F766E&amp;border_color=D0D7DE&amp;cache_seconds=60">
-    <img width="400" height="163" align="center" src="https://github-readme-stats-fast.vercel.app/api?username=nathan1658&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide=prs&amp;line_height=29&amp;custom_title=Public%20Repository%20Snapshot&amp;bg_color=FFFFFF&amp;title_color=B45309&amp;text_color=24292F&amp;icon_color=0F766E&amp;border_color=D0D7DE&amp;cache_seconds=60" alt="Nathan's public GitHub repository statistics">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./profile/stats-light.svg">
+    <img width="400" height="188" align="center" src="./profile/stats-light.svg" alt="Nathan's public and private GitHub repository statistics">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nathan1658&amp;layout=compact&amp;langs_count=8&amp;card_width=467&amp;bg_color=0F172A&amp;title_color=F59E0B&amp;text_color=E2E8F0&amp;border_color=334155&amp;cache_seconds=60">
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nathan1658&amp;layout=compact&amp;langs_count=8&amp;card_width=467&amp;bg_color=FFFFFF&amp;title_color=B45309&amp;text_color=24292F&amp;border_color=D0D7DE&amp;cache_seconds=60">
-    <img width="400" height="163" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nathan1658&amp;layout=compact&amp;langs_count=8&amp;card_width=467&amp;bg_color=FFFFFF&amp;title_color=B45309&amp;text_color=24292F&amp;border_color=D0D7DE&amp;cache_seconds=60" alt="Nathan's most-used public repository languages">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./profile/top-langs-light.svg">
+    <img width="400" height="188" align="center" src="./profile/top-langs-light.svg" alt="Nathan's most-used public and private repository languages">
   </picture>
 </p>
 
-<p align="center"><sub>Repository metrics above cover public projects; the contribution activity below also includes anonymized private and internal work.</sub></p>
+<p align="center"><sub>Private-inclusive aggregate snapshot generated from GitHub. Private repository names, organizations, and code remain hidden.</sub></p>
 
 ## Project Spotlights
 
