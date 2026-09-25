@@ -57,6 +57,18 @@ I am always exploring new platforms, AI-assisted development, mobile and hardwar
 
 ## Project Spotlights
 
+### HK Racing Simulator · 跑馬地夜賽
+
+<p align="center">
+  <a href="https://github.com/nathan1658/hk-racing-sim">
+    <img width="100%" src="./hk-racing-sim.jpg" alt="Head-on broadcast shot of a floodlit Happy Valley night race, with Chinese neon signs on the towers behind the home straight">
+  </a>
+</p>
+
+A 3D Happy Valley night-racing betting simulator that runs in the browser (Three.js), with a Traditional Chinese UI. It has a floodlit course, grandstand crowd and neon skyline, plus galloping horses with jockeys in their racing colours. The race engine is calibrated to real 跑馬地 winning times, and the betting uses pari-mutuel 獨贏 / 位置 / 連贏 / 位置Q / 三重彩 pools. Races are shown through TV-style cameras with Cantonese race calls.
+
+[**Explore the repository →**](https://github.com/nathan1658/hk-racing-sim)
+
 ### Claude Sidebar
 
 <p align="center">
@@ -137,6 +149,7 @@ An interactive, video-first doubles badminton analysis workspace combining synch
 ### Evidence Behind the Work
 
 - **Tested developer tooling:** `claude-sidebar` documents 126 dependency-free tests; `codex-usage-menubar` includes parser and normalization tests.
+- **Tested 3D simulation:** `hk-racing-sim` pairs core unit tests with a Playwright E2E run on the real GPU that plays a full race meeting and reconciles the balance against pool dividends.
 - **Products you can use:** [J-Pop HK Concerts](https://jpop-hk-concerts.web.app/) and [HK Horse Memory](https://hk-horse-memory-nc.web.app/) are live.
 - **Real-device engineering:** Eddystone Playground documents Android/iOS capability boundaries, diagnostics, screenshots, and physical-device validation.
 - **Security-conscious backend work:** whatsmeow-playground documents Host, Origin, content-type, XSS, and local credential-storage safeguards.
