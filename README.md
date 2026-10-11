@@ -57,6 +57,18 @@ I am always exploring new platforms, AI-assisted development, mobile and hardwar
 
 ## Project Spotlights
 
+### Sydney Live
+
+<p align="center">
+  <a href="https://sydney-live-dashboard.web.app">
+    <img width="100%" src="./sydney-live.jpg" alt="3D sandstone model of Sydney's CBD with live trains, buses and light rail moving through it, a temperature column at Observatory Hill, and weather and network-status panels">
+  </a>
+</p>
+
+A realtime 3D dashboard of Sydney built only on open government data. Every train, metro, light rail, ferry and bus that reports its GPS position moves through a 3D model of the city, alongside Bureau of Meteorology observations, the 7-day forecast, warnings and the animated rain radar. Train and metro on-time figures are computed live from GTFS-realtime trip updates. It runs at no cost: Firebase Hosting serves the site, and a Cloudflare Worker with one Durable Object holds the API key and streams to every viewer from a single set of upstream polls.
+
+[**▶ Open it live**](https://sydney-live-dashboard.web.app) · [**Explore the repository →**](https://github.com/nathan1658/sydney-dashboard)
+
 ### HK Racing Simulator · 跑馬地夜賽
 
 <p align="center">
@@ -150,7 +162,8 @@ An interactive, video-first doubles badminton analysis workspace combining synch
 
 - **Tested developer tooling:** `claude-sidebar` documents 126 dependency-free tests; `codex-usage-menubar` includes parser and normalization tests.
 - **Tested 3D simulation:** `hk-racing-sim` pairs core unit tests with a Playwright E2E run on the real GPU that plays a full race meeting and reconciles the balance against pool dividends.
-- **Products you can use:** [J-Pop HK Concerts](https://jpop-hk-concerts.web.app/), [HK Horse Memory](https://hk-horse-memory-nc.web.app/) and [HK Racing Simulator](https://nathan1658.github.io/hk-racing-sim/) are live.
+- **Products you can use:** [J-Pop HK Concerts](https://jpop-hk-concerts.web.app/), [HK Horse Memory](https://hk-horse-memory-nc.web.app/), [HK Racing Simulator](https://nathan1658.github.io/hk-racing-sim/) and [Sydney Live](https://sydney-live-dashboard.web.app) are live.
+- **Realtime on free tiers:** `sydney-dashboard` streams live transport and weather to every viewer from one set of upstream polls, and its README documents each free-tier limit against measured usage.
 - **Real-device engineering:** Eddystone Playground documents Android/iOS capability boundaries, diagnostics, screenshots, and physical-device validation.
 - **Security-conscious backend work:** whatsmeow-playground documents Host, Origin, content-type, XSS, and local credential-storage safeguards.
 
